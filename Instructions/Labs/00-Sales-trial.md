@@ -18,7 +18,7 @@ Cette nouvelle offre lui permettra d’établir des relations directes avec ses 
 1. Dans un nouvel onglet de navigateur, accédez à https://dynamics.microsoft.com/dynamics-365-free-trial. Au centre de l’écran, vous verrez deux boutons : un pour afficher les plans et les tarifs, l’autre pour accéder à une version d’évaluation gratuite. Sélectionnez **Essayer gratuitement**.
 3. Recherchez Dynamic 365 Sales.
 4. Sélectionnez le bouton **Essayer gratuitement**.
-5. Dans l’écran *C’est parti*, entrez les informations d’identification qui vous ont été fournies dans le cadre de votre environnement de labo. Acceptent le contrat de licence. (Si vous êtes invité à entrer un numéro de téléphone, vous pouvez saisir 0123456789.)
+5. Dans l’écran *C’est parti*, entrez les informations d’identification qui vous ont été fournies dans le cadre de votre environnement de labo. Acceptez le contrat de licence. (Si vous êtes invité à entrer un numéro de téléphone, vous pouvez saisir 0123456789.)
 6. Sélectionnez **Commencez votre essai gratuit**.
 7. (Si vous y êtes invité, sélectionnez **Démarrer la version d’évaluation** dans la fenêtre contextuelle.
 8. Votre version d’évaluation démarrera. L’ouverture de l’environnement peut prendre quelques minutes.
