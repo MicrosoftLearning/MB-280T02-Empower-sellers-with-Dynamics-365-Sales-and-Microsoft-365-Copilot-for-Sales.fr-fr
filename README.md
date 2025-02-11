@@ -1,3 +1,11 @@
+#README
+
+We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+
+Provide feedback here: https://aka.ms/provide-feedback
+
+Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+
 # MB-280T02 : responsabiliser les vendeurs avec Dynamics 365 Sales
 
 Ce référentiel contient des exercices et des fichiers de prise en charge pour le contenu de compétences Microsoft.
